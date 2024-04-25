@@ -9,7 +9,7 @@ This is a project whose goal is creating a digital e-book using AI tools.
 ## Tools used in the project
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Craiyon](https://www.craiyon.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## Used prompts
@@ -20,24 +20,31 @@ ChatGPT：
 |   Action   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  title  | Create an ebook title about HTML; the ebook category is programming and its subcategory is HTML, title should be short but epic and it should have a casual approach. List me 5 variations of title                                                       |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| content | Create a text for an ebook, focusing on HTML, listing the main HTML tags with examples in code \
+
+{RULES} \
+
+> Always explain in a simple way \
+> Write each topic in less than 150 words \
+> Always use code examples in real contexts \
+> Always use a creative title per topic |
 
 
-Midjourney：
+Craiyon：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| title | A wizard in meditation pose, with a red magic stone floating above him, pixel art style |
 
-## ✨ Features
+## Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Content generated using ChatGPT
+- Image generated using Craiyon
 
-## 📚 Materiais
+## Materials
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Used pictures in `assets`
+- Generated e-book in `output`
 
 ## 🛠️ Instruções de execução
 
