@@ -25,7 +25,7 @@ ChatGPT：
 
 Craiyon：
 
-|  Ação  | prompt                                                                                 |
+|  Action  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | title | A wizard in meditation pose, with a red magic stone floating above him, pixel art style |
 
