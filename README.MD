@@ -4,7 +4,7 @@
 Part of DIO's "Santander 2024 - Fundamentos de IA para Devs" bootcamp \
 This is a project whose goal is creating a digital e-book using AI tools.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Click to read</a>
+<a href="https://github.com/CoraPhoenix/dio-creating-an-ebook-using-prompts/blob/main/output/ebook.pdf" title="View PDF now"> 📕Click to read</a>
 
 ## Tools used in the project
 
